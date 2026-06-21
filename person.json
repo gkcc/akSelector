@@ -1,0 +1,267 @@
+[
+  {
+    "name": "艾格尼丝·贝克",
+    "colors": ["purple"]
+  },
+  {
+    "name": "艾格尼丝·贝克(平行）",
+    "colors": ["purple"]
+  },
+  {
+    "name": "吉姆·卡尔弗",
+    "colors": ["purple"]
+  },
+  {
+    "name": "吉姆·卡尔弗（平行）",
+    "colors": ["purple"]
+  },
+  {
+    "name": "阿喀琦·奥耶莉",
+    "colors": ["purple"]
+  },
+  {
+    "name": "马泰奥神父",
+    "colors": ["purple"]
+  },
+  {
+    "name": "马泰奥神父(平行）",
+    "colors": ["purple"]
+  },
+  {
+    "name": "黛安娜·史丹利",
+    "colors": ["purple"]
+  },
+  {
+    "name": "玛丽·朗博",
+    "colors": ["purple"]
+  },
+  {
+    "name": "卢克·罗宾逊",
+    "colors": ["purple"]
+  },
+  {
+    "name": "戴克斯特·德雷克",
+    "colors": ["purple"]
+  },
+  {
+    "name": "戴克斯特·德雷克（小说）",
+    "colors": ["purple"]
+  },
+  {
+    "name": "陈丽丽",
+    "colors": ["purple"]
+  },
+    {
+    "name": "杰奎琳·法恩",
+    "colors": ["purple"]
+  },
+  {
+    "name": "格洛丽亚·戈德伯格（小说）",
+    "colors": ["purple"]
+  },
+  {
+    "name": "温蒂·亚当斯",
+    "colors": ["red"]
+  },
+  {
+    "name": "温蒂·亚当斯（平行）",
+    "colors": ["red"]
+  },
+  {
+    "name": "灰堆·皮特",
+    "colors": ["red"]
+  },
+  {
+    "name": "灰堆·皮特(平行）",
+    "colors": ["red"]
+  },
+
+  {
+    "name": "威廉·约里克",
+    "colors": ["red"]
+  },
+  {
+    "name": "加尔文·怀特",
+    "colors": ["red"]
+  },
+    {
+    "name": "丽塔·杨",
+    "colors": ["red"]
+  },
+  {
+    "name": "派翠丝·海瑟薇",
+    "colors": ["red"]
+  },
+  {
+    "name": "塞拉斯·马什",
+    "colors": ["red"]
+  },
+  {
+    "name": "塞拉斯·马什（小说）",
+    "colors": ["red"]
+  },
+  {
+    "name": "鲍勃·詹金斯",
+    "colors": ["red"]
+  },
+  {
+    "name": "斯特拉·克拉克",
+    "colors": ["red"]
+  },
+  {
+    "name": "雷克斯·墨菲",
+    "colors": ["yellow"]
+  },
+  {
+    "name": "雷克斯·墨菲（平行）",
+    "colors": ["yellow"]
+  },
+  {
+    "name": "黛西·沃克",
+    "colors": ["yellow"]
+  },
+  {
+    "name": "黛西·沃克（平行）",
+    "colors": ["yellow"]
+  },
+  {
+    "name": "潘明",
+    "colors": ["yellow"]
+  },
+  {
+    "name": "哈维·沃尔特斯",
+    "colors": ["yellow"]
+  },
+  {
+    "name": "厄休拉·唐斯",
+    "colors": ["yellow"]
+  },
+  {
+    "name": "乔·戴蒙德",
+    "colors": ["yellow"]
+  },
+  {
+    "name": "曼蒂·汤普森",
+    "colors": ["yellow"]
+  },
+  {
+    "name": "阿曼达·夏普",
+    "colors": ["yellow"]
+  },
+  {
+    "name": "诺曼·威瑟斯",
+    "colors": ["yellow"]
+  },
+  {
+    "name": "诺曼·威瑟斯（小说）",
+    "colors": ["yellow"]
+  },
+  {
+    "name": "罗兰·班克斯",
+    "colors": ["blue"]
+  },
+  {
+    "name": "罗兰·班克斯（平行）",
+    "colors": ["blue"]
+  },
+  {
+    "name": "罗兰·班克斯（小说）",
+    "colors": ["blue"]
+  },
+  {
+    "name": "佐伊·萨马拉斯",
+    "colors": ["blue"]
+  },
+  {
+    "name": "佐伊·萨马拉斯(平行）",
+    "colors": ["blue"]
+  },
+  {
+    "name": "马克·哈里根",
+    "colors": ["blue"]
+  },
+  {
+    "name": "里奥·安德森",
+    "colors": ["blue"]
+  },
+  {
+    "name": "卡洛斯·弗恩",
+    "colors": ["blue, red, purple, yellow, green"]
+  },
+  {
+    "name": "卡洛斯·弗恩（小说）",
+    "colors": ["blue, red, purple, yellow, green"]
+  },
+  {
+    "name": "托米·马尔登",
+    "colors": ["blue, red, purple, yellow, green"]
+  },
+  {
+    "name": "玛丽修女",
+    "colors": ["blue, red, purple, yellow, green"]
+  },
+  {
+    "name": "丹妮拉·雷耶丝",
+    "colors": ["blue"]
+  },
+  {
+    "name": "纳撒尼尔·曹",
+    "colors": ["blue"]
+  },
+  {
+    "name": "'倒霉蛋'奥图尔",
+    "colors": ["green"]
+  },
+  {
+    "name": "'倒霉蛋'奥图尔（平行）",
+    "colors": ["green"]
+  },
+  {
+    "name": "珍妮·巴恩斯",
+    "colors": ["green"]
+  },
+  {
+    "name": "珍妮·巴恩斯（平行）",
+    "colors": ["green"]
+  },
+  {
+    "name": "珍妮·巴恩斯（小说）",
+    "colors": ["green"]
+  },
+  {
+    "name": "赛菲娜·卢梭",
+    "colors": ["green"]
+  },
+  {
+    "name": "芬恩·爱德华兹",
+    "colors": ["green"]
+  },
+  {
+    "name": "温妮弗雷德·哈巴莫克",
+    "colors": ["green"]
+  },
+  {
+    "name": "托尼·摩尔根",
+    "colors": ["green"]
+  },
+    {
+    "name": "特里希·斯卡波罗",
+    "colors": ["green"]
+  },
+  {
+    "name": "蒙特雷·杰克",
+    "colors": ["green"]
+  },
+  {
+    "name": "蒙特雷·杰克(平行）",
+    "colors": ["green"]
+  },
+  {
+    "name": "个体代号5U-21",
+    "colors": ["green", "red", "blue", "purple", "yellow"]
+  },
+  {
+    "name": "萝拉·海耶斯",
+    "colors": ["green", "red", "blue", "purple", "yellow"]
+  }
+]
